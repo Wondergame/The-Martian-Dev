@@ -1,5 +1,5 @@
 <html>
-	<index.html>
+	<index.html="https://wondergame.github.io/The-Martian-Dev/">
 	<title> The Martian Devblog </title>
 	<body> 
 		<center>
